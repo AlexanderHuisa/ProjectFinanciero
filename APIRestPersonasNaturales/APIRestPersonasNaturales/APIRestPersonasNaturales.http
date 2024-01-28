@@ -1,0 +1,6 @@
+@APIRestPersonasNaturales_HostAddress = http://localhost:5118
+
+GET {{APIRestPersonasNaturales_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

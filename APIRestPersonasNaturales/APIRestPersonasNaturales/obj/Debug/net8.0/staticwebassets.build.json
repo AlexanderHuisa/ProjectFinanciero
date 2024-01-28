@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KJSJVIuCXYT2EhmUI2ZnJdjFjMor+IiAIryFfp7rQqc=",
+  "Source": "APIRestPersonasNaturales",
+  "BasePath": "_content/APIRestPersonasNaturales",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
